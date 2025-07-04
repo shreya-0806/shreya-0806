@@ -1,7 +1,15 @@
 ## Hi there 👋
 
-I'm **Shreyanshi Srivastav**, a B.Tech IT student at SRMCEM, Lucknow.  
-💻 Web Development Enthusiast 
+<h1 align="center">✨ Hey there, I'm Shreyanshi Srivastav!</h1> 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=B.Tech+IT+Student+%40+SRMCEM;Web+Development+Enthusiast;Tech+Explorer" alt="Typing SVG" /> 
+</p>
+
+## 👋 About Me
+
+I'm **Shreyanshi Srivastav**, currently pursuing **B.Tech in Information Technology** from **SRMCEM, Lucknow**.  
+I'm passionate about learning new technologies, building practical projects, and exploring how data, code, and creativity can solve real-world problems.
 
 <!--
 **shreya-0806/shreya-0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
