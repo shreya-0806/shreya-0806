@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Shreyanshi Srivastav**, a B.Tech IT student at SRMCEM, Lucknow.  
-💻 Web Development Enthusiast | 📊 Aspiring Data Analyst
+💻 Web Development Enthusiast 
 
 <!--
 **shreya-0806/shreya-0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
