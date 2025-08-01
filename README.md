@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there👋, I'm Shreyanshi Srivastav!</h1> 
+<h1 align="center">✨ Hey there👋, I'm Shreyanshi Srivastava!</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=B.Tech+IT+Student+%40+SRMCEM;Web+Development+Enthusiast;Tech+Explorer" alt="Typing SVG" /> 
@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm **Shreyanshi Srivastav**, currently pursuing **B.Tech in Information Technology** from **SRMCEM, Lucknow**.  
+I'm **Shreyanshi Srivastava**, currently pursuing **B.Tech in Information Technology** from **SRMCEM, Lucknow**.  
 I'm passionate about learning new technologies, building practical projects, and exploring how data, code, and creativity can solve real-world problems.
 
 <!--
@@ -40,7 +40,7 @@ I'm passionate about learning new technologies, building practical projects, and
 
 ### 📫 How to reach me:
 - 🌐 [Portfolio Website](https://shreyanshisrivastava.w3spaces.com/)
-- ✉️ Gmail: srivastavshreyanshi69@gmail.com
+- ✉️ Gmail: srivastavashreyanshi69@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shreyanshi-srivastava-b2a0652a0/)
 - 📝 [Blogspot Blog](https://aigen023.blogspot.com/)
 
